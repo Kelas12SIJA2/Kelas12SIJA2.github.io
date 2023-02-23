@@ -1,0 +1,29 @@
+.navbar {
+    background-color:#AD632A;    
+}
+
+.nav-link {
+    font-style: bold;
+
+}
+
+.navbar-nav {
+    z-index: 8;
+}
+
+.profile { 
+background: #F9D9C0;
+}
+
+#slide1,#slide2,#slide3 {
+    color:rgb(250, 250, 250);
+}
+
+#cap1,#cap2,#cap3 {
+    color:rgb(255, 255, 255)
+}
+
+.konten {
+    background-color: none
+    ;
+}
